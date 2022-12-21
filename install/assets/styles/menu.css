@@ -1,0 +1,17 @@
+#global_menu_kit-menu .adm-main-menu-item-icon{
+    background: url("../../images/stdkit.settings/logo.png") no-repeat center;
+    opacity: .6;
+    background-size: 90%;
+}
+
+#global_menu_kit-menu.adm-main-menu-item-active .adm-main-menu-item-icon, #global_menu_kit-menu:hover .adm-main-menu-item-icon{
+    opacity: 1;
+}
+
+/*.ksp_options #edit_edit_table tr td:nth-child(1) {
+    text-align: right;
+}*/
+
+/*.ksp_options #edit_edit_table tr td:nth-child(2) {
+}
+*/
